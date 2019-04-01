@@ -67,3 +67,9 @@ Firefox | 1.5
 IE | 9
 Opera | Yes
 Safari | Yes
+
+## 참고
+
+- [Why can Array.prototype.forEach not be chained?](https://stackoverflow.com/questions/29228064/why-can-array-prototype-foreach-not-be-chained)
+- [Array.prototype.forEach()
+](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
